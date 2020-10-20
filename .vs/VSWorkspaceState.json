@@ -4,8 +4,9 @@
     "\\angular-tour-of-heroes",
     "\\angular-tour-of-heroes\\src",
     "\\angular-tour-of-heroes\\src\\app",
-    "\\angular-tour-of-heroes\\src\\app\\heroes"
+    "\\angular-tour-of-heroes\\src\\app\\hero-search",
+    "\\angular-tour-of-heroes\\src\\app\\messages"
   ],
-  "SelectedNode": "\\angular-tour-of-heroes\\src\\app\\heroes\\heroes.component.ts",
+  "SelectedNode": "\\angular-tour-of-heroes\\src\\app\\mock-heroes.ts",
   "PreviewInSolutionExplorer": false
 }
